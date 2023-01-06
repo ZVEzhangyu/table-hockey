@@ -1,0 +1,2 @@
+submission以及ans放在官方代码agent\random文件夹下
+create_table放在官方代码的olympics_engine\train文件夹下
